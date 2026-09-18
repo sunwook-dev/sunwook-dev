@@ -18,4 +18,4 @@
 ### 📫 Contact
 
 - 📧 tjsdnr9@gmail.com
-- 📝 Blog / Notion : [(https://reliable-path-113.notion.site/AI-1a4a9b75b470804b9093d842ec42b762?source=copy_link)]
+- 📝 Blog / Notion : https://reliable-path-113.notion.site/AI-1a4a9b75b470804b9093d842ec42b762?source=copy_link
