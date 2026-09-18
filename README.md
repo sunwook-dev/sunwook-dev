@@ -1,19 +1,20 @@
-# Sunwook Kim
+Sunwook Kim
+QA Automation Engineer 🔧
+A QA engineer with 6+ years of experience — I go beyond finding bugs to build better ways of testing 🚀
+Now I work as QA at Styleseller, a SaaS commerce platform.
+I've owned quality across telecom, enterprise, e-commerce, and fintech domains.
+Expanding my testing into Playwright automation, CI/CD, and generative-AI-powered QA.
 
-### Growth oriented QA Engineer 🔥
+🛠️ Tech Stack
+Test & Automation : Playwright Selenium Postman LoadRunner
+CI/CD & DevOps : Jenkins GitHub Actions Docker Git
+Language & Data : Python JavaScript SQL
+AI : LangChain LangGraph RAG
+Management : Jira Confluence
 
-- 🧪 QA/SDET로 일하고 있습니다.
-- 🏢 Now I work at [스타일셀러].
-- 📌 관심 분야: [테스트 자동화 / AI 활용 QA / etc.]
+📂 Featured
+qa-automation-demo — QA automation demo with Playwright & Postman/Newman (requirements → test cases → traceability)
 
-### My Blog & Links
-- 🔗 [블로그 주소]
-- 📮 [이메일 주소]
-
-### Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=sunwook-dev&show_icons=true)
+📫 Contact
+📧 tjsdnr9@gmail.com
+📝 Blog / Notion : https://reliable-path-113.notion.site/AI-1a4a9b75b470804b9093d842ec42b762?source=copy_link
