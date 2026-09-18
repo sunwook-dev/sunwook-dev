@@ -15,10 +15,6 @@
 - **AI** : `LangChain` `LangGraph` `RAG`
 - **Management** : `Jira` `Confluence`
 
-### 📂 Featured
-
-- [qa-automation-demo](https://github.com/sunwook-dev/qa-automation-demo) — QA automation demo with Playwright & Postman/Newman (requirements → test cases → traceability)
-
 ### 📫 Contact
 
 - 📧 tjsdnr9@gmail.com
